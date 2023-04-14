@@ -1,4 +1,4 @@
-export default interface Films {
+export default interface Buyable {
   id: number;
   title: string;
   price: number;
