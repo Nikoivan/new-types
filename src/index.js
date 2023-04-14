@@ -1,1 +1,1 @@
-import './ts/cart.ts';
+console.log('Done');
